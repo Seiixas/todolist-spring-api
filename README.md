@@ -25,7 +25,7 @@ Para instalar o PartyRent, siga estas etapas:
 
 Realize o clone do repositório:
 ```
-git clone https://github.com/Seiixas/partyrent.git
+git clone https://github.com/Seiixas/todolist-spring-api.git
 ```
 
 Suba a instância no Docker:
