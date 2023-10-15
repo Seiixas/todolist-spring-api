@@ -19,9 +19,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 * Docker e Docker Compose.
 
-## 🚀 Instalando PartyRent
+## 🚀 Instalando To-Do API
 
-Para instalar o PartyRent, siga estas etapas:
+Para instalar o To-Do API, siga estas etapas:
 
 Realize o clone do repositório:
 ```
